@@ -1,4 +1,5 @@
-# PROJECTS
-Last Updated By: 03/01/2021
+# COURSERA
+## Online Course Projects
+Last Updated By: 04/13/2021
 
-Joey's ongoing project folders and files for GitHub training
+Joey's ongoing Coursera.org course project folders and files for GitHub training
