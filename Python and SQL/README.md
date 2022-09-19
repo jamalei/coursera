@@ -1,7 +1,7 @@
 # README.md
 
 ## Data Science course for Python and SQL
-### Answers for test of course.
+### My answers for the final test
 
 #### Problem #1
 ![Problem #1](/Python%20and%20SQL/media/Problem1.jpg)
