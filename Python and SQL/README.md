@@ -4,7 +4,7 @@
 ### Answers for test of course.
 
 #### Problem #1
-![Problem #1](/Python and SQL/media/Problem1.jpg)
+![Problem #1](/media/Problem1.jpg)
 
 #### Problem #2
 ![Problem #2](/media/Problem2.jpg)
