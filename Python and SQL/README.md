@@ -1,7 +1,7 @@
 # README.md
 
 ## Data Science course for Python and SQL
-### My answers for the final test
+### My answers for the final test making SQL queries from their hosted cloud IBM database.
 
 #### Problem #1
 ![Problem #1](/Python%20and%20SQL/media/Problem1.jpg)
