@@ -4,7 +4,7 @@
 ### Answers for test of course.
 
 #### Problem #1
-![Problem #1](/coursera/blob/main/Python%20and%20SQL/media/Problem1.jpg)
+![Problem #1](/Python%20and%20SQL/media/Problem1.jpg)
 
 #### Problem #2
 ![Problem #2](/media/Problem2.jpg)
